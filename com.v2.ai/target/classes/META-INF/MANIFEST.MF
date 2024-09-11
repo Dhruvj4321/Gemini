@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 21.0.1
+Implementation-Title: com.v2.ai
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.v2.ai
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/com.v2.ai
+Created-By: Maven Integration for Eclipse
+
